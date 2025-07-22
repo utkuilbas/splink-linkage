@@ -1,7 +1,3 @@
-# Historical_50K Veri Seti ile Splink Record Linkage Projesi
-# Gerekli kütüphanelerin kurulumu için terminal'de şu komutları çalıştırın:
-# pip install duckdb pandas splink
-
 import pandas as pd
 import duckdb
 from splink.duckdb.linker import DuckDBLinker
