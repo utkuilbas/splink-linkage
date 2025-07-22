@@ -14,8 +14,7 @@ Bu proje, Splink kütüphanesi kullanarak kişi kayıtları üzerinde record lin
 
 1. **Repoyu klonlayın:**
 ```bash
-git clone https://github.com/utkuilbas/splink-record-linkage.git
-cd splink-record-linkage
+git clone https://github.com/utkuilbas/splink-linkage.git
 ```
 
 2. **Sanal ortam oluşturun (önerilen):**
@@ -42,7 +41,7 @@ Program otomatik olarak:
 2. DuckDB veritabanını kurar
 3. Record linkage işlemini gerçekleştirir
 4. Sonuçları analiz eder
-5. CSV ve JSON formatlarında raporlar oluşturur
+5. CSV formatında raporlar oluşturur
 
 
 ### Dosyalar
